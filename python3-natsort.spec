@@ -8,7 +8,7 @@ Summary(pl.UTF-8):	-
 # Name must match the python module/package name (as on pypi or in 'import' statement)
 Name:		python3-%{module}
 Version:	7.1.1
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 # if pypi:
