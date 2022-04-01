@@ -19,7 +19,7 @@ URL:		https://pypi.org/project/natsort/
 BuildRequires:	python3-modules >= 1:3.2
 #BuildRequires:	python3-setuptools
 %if %{with tests}
-#BuildRequires:	python3-
+BuildRequires:	python3-hypothesis
 %endif
 BuildRequires:	rpm-pythonprov
 BuildRequires:	rpmbuild(macros) >= 1.714
