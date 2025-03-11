@@ -8,7 +8,7 @@ Summary:	Simple yet flexible natural sorting in Python
 Summary(pl.UTF-8):	Proste, ale elastyczne naturalne sortowanie w Pythonie
 Name:		python3-%{module}
 Version:	8.4.0
-Release:	2
+Release:	3
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/natsort/
